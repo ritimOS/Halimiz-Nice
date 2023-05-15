@@ -1,2 +1,2 @@
-# Halimiz-Nice
-Halimiz Nice: ritimOS'un Resmi Boot Animasyonudur
+# Halimiz Nice
+ritimOS'un Resmi Boot Animasyonudur
